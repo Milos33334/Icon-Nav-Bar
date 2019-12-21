@@ -1,0 +1,27 @@
+body{
+    background-color: aqua;
+}
+.nav-bar{
+    
+    background-color: #66ff66;
+    display: inline-block;
+    color:white;
+    font-size: 36px;
+    
+   
+ 
+
+}
+.nav-bar a{
+    display: inline-block;
+    color: tomato;
+    transition: all 0.3 ease;
+    padding:16px ;
+    text-align: center;
+  
+}
+.nav-bar a:hover{
+background-color: #80aaff
+
+}
+    
